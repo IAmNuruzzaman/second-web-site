@@ -23,13 +23,20 @@
 }
 
 .half-width img{
-    width:50%;
-    height: 300px;
+    width: 380px;
+    height: 400px;
 }
 
-a{
+.btn {
     text-decoration: none;
     background-color: black;
     color: aliceblue;
     padding: 5px;
+    
+}
+
+
+.about-me{
+    display: flex;
+    background-image: url(/images/shapes/7.png);
 }
